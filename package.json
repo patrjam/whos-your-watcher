@@ -1,6 +1,6 @@
 {
-  "name": "whos-your-watcher",
   "homepage": "https://patrjam.github.io/whos-your-watcher/",
+  "name": "whos-your-watcher",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -13,6 +13,7 @@
     "web-vitals": "^0.2.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
