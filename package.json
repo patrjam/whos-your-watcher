@@ -1,5 +1,6 @@
 {
   "name": "whos-your-watcher",
+  "homepage": "https://patrjam.github.io/whos-your-watcher/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
