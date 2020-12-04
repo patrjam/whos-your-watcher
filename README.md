@@ -1,7 +1,11 @@
 # Who's your watcher
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-Live preview here: [Who's your watcher?](https://patrjam.github.io/whos-your-watcher/)
+Who's your watcher app is a small solution for daily standup, which select person as a watcher of OT (off topic).
+Watcher helps to make standup faster and clearer.
+
+# Live preview
+
+Here:[Who's your watcher?](https://patrjam.github.io/whos-your-watcher/)
 
 ## Available Scripts
 
@@ -27,4 +31,6 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
+### Create React App
 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
