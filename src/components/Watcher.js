@@ -6,14 +6,7 @@ const Watcher = () => {
 
   const whoIs = () => {
     const watchers = [
-      "Patrícia",
-      "Josef",
-      "Dan",
-      "Stanislav",
-      "Martin",
-      "Jan",
       "Karel",
-      "Leon",
     ];
     const newWatcher = watchers[Math.floor(Math.random() * watchers.length)];
     setSelectedWatcher(newWatcher);
