@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/whos-your-watcher/static/css/main.a6adbe7f.chunk.css",
-    "main.js": "/whos-your-watcher/static/js/main.36442111.chunk.js",
-    "main.js.map": "/whos-your-watcher/static/js/main.36442111.chunk.js.map",
+    "main.js": "/whos-your-watcher/static/js/main.215e3f9b.chunk.js",
+    "main.js.map": "/whos-your-watcher/static/js/main.215e3f9b.chunk.js.map",
     "runtime-main.js": "/whos-your-watcher/static/js/runtime-main.eca04fd2.js",
     "runtime-main.js.map": "/whos-your-watcher/static/js/runtime-main.eca04fd2.js.map",
     "static/js/2.4be94afa.chunk.js": "/whos-your-watcher/static/js/2.4be94afa.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.eca04fd2.js",
     "static/js/2.4be94afa.chunk.js",
     "static/css/main.a6adbe7f.chunk.css",
-    "static/js/main.36442111.chunk.js"
+    "static/js/main.215e3f9b.chunk.js"
   ]
 }
