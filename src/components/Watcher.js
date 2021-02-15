@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import logo from "../logo.svg";
 
-const Watcher = () => {
+export const Watcher = () => {
   const [selectedWatcher, setSelectedWatcher] = useState("");
 
   const whoIs = () => {
@@ -14,6 +14,7 @@ const Watcher = () => {
       "Jan",
       "Karel",
       "Leon",
+      "Veronika",
     ];
     const newWatcher = watchers[Math.floor(Math.random() * watchers.length)];
     setSelectedWatcher(newWatcher);
@@ -29,5 +30,3 @@ const Watcher = () => {
     </div>
   );
 };
-
-export default Watcher;
